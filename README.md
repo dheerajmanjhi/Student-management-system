@@ -7,3 +7,5 @@ This project demonstrates Git and GitHub basics.
 
 
 Developed as a Git and GitHub practice project.
+## Course Details
+Course: Computer Science and Business Systems
